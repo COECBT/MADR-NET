@@ -1,6 +1,8 @@
 # MADR-Net
 ## MADR-Net: Multi-level Attention Dilated Residual Neural Network for Segmentation of Medical Images ##
-![image](https://github.com/COECBT/MADR-Net/assets/155612910/84cb303a-e188-4a54-bca3-acccca6932a8)
+![SR1](https://github.com/COECBT/MADR-NET/assets/155612910/2b1e1c2a-b1b7-4578-9c7b-952ad21ee4fa)
+
+![Graphical_abs_ISCLS](https://github.com/COECBT/MADR-NET/assets/155612910/b1fe8849-3e76-4d86-af02-c3f0074c2355)
 
 ## Dataset
 The effectiveness of the proposed MADR-Net architecture is evaluated with four publicly available datasets from different image modalities.
@@ -9,10 +11,12 @@ The effectiveness of the proposed MADR-Net architecture is evaluated with four p
 * FIB-SEM dataset consists of serial section transmission electron microscopy (SSTEM) images acquired from the hippocampus region of the brain. 
 * Brain MR images with manual ground truth of fluid-attenuated inversion recovery (FLAIR) abnormalities were acquired from The Cancer Imaging Archive (TCIA). 
 
-![image](https://github.com/COECBT/MADR-Net/assets/155612910/f7e79061-1a11-447f-95ac-f632e2d5e3c7)
+![SR3](https://github.com/COECBT/MADR-NET/assets/155612910/d4fd3295-b174-40c9-bbde-e22f52b3ce40)
 
-![image](https://github.com/COECBT/MADR-Net/assets/155612910/ed2f367d-12e7-495f-b8db-fe8b36c6811a)
+![SR4](https://github.com/COECBT/MADR-NET/assets/155612910/b9536706-b7c9-4b2c-a930-787954c0bd73)
 
 Progression of the validation dice score with respect to the number of epochs for Skin cancer dataset
 
-![image](https://github.com/COECBT/MADR-Net/assets/155612910/0fae3cc0-8782-4598-934e-97951595cfc0)
+![SR2](https://github.com/COECBT/MADR-NET/assets/155612910/40401d32-6a25-4d0c-a2c6-0d8e22979156)
+
+![SR5](https://github.com/COECBT/MADR-NET/assets/155612910/095f92bb-186c-4bbc-98e0-1de66cd13c93)
